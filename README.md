@@ -1,4 +1,9 @@
-### Hi there 👋
+![download](https://user-images.githubusercontent.com/64258774/161419194-3300286a-d2c6-4f8f-a8b0-d60bfb2c006e.png)
+
+### Hey! Alex here and welcome to my page
+- 🥸 I’m currently working on expanding my knowledge base on all things web development
+- 🤓 I’m currently learning the MERN Stack
+- 🤩 I’m looking to collaborate on products that impact human lives
 
 <!--
 **AMNoronha/AMNoronha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
