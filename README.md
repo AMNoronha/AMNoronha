@@ -1,4 +1,4 @@
-![download](https://user-images.githubusercontent.com/64258774/161419194-3300286a-d2c6-4f8f-a8b0-d60bfb2c006e.png)
+![4A55C174-12D5-461E-ADF7-CC206BC995E0_4_5005_c](https://user-images.githubusercontent.com/64258774/161419443-05b43657-cf0f-4f60-b1bc-b048847dd8bc.jpeg)
 
 ### Hey! Alex here and welcome to my page
 - 🥸 I’m currently working on expanding my knowledge base on all things web development
