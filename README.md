@@ -1,5 +1,5 @@
 ![4A55C174-12D5-461E-ADF7-CC206BC995E0_4_5005_c](https://user-images.githubusercontent.com/64258774/161419443-05b43657-cf0f-4f60-b1bc-b048847dd8bc.jpeg)
-
+(What I look like while writing code)
 ### Hey! Alex here and welcome to my page
 - 🥸 I’m currently working on expanding my knowledge base on all things web development
 - 🤓 I’m currently learning the MERN Stack
